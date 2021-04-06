@@ -38,8 +38,7 @@ printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/x
 
 
 
-login_user() {
-
+login_user() {xx_bekoppter_voschel_xx/
 
 if [[ $user == "" ]]; then
 printf "\e[1;31m[\e[0m\e[1;77m*\e[0m\e[1;31m]\e[0m\e[1;93m Login\e[0m\n"
